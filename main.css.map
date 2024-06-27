@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;IACI,WAAW;AACf,C;ACDI,aACI,c","sources":["webpack://webpack-pattern/./src/styles/style.css","webpack://webpack-pattern/./src/styles/style.scss"],"sourcesContent":["h1 {\r\n    color: blue;\r\n}",".container {\r\n    p {\r\n        color:darkgreen;\r\n    }\r\n}"],"names":[],"sourceRoot":""}
